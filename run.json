@@ -1,6 +1,8 @@
 {
         "client_file" : "client.py",
         "server_file" : "server.py",
+        'generate_type': "generate_random_char",
+        'size': "1"
         "client_exec_cmd" : "python3 client.py",
         "server_exec_cmd" : "python3 server.py"
 }
