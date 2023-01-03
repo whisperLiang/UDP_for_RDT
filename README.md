@@ -59,7 +59,7 @@ python3 chunk_generator.py generate_random_char -s 0.5
 * 示例：
 
 ```
-python3 ./GetScore.py --client_ip 192.168.43.131 --client_password 123456 --client_username jhon --server_ip 192.168.43.130 --server_port 49999 --server_password 123456 --server_username jhon --client_file ./work/22020124/client.py --server_file ./work/22020124/server.py --generate_type generate_random_char --size 1
+python3 ./GetScore.py
 ```
 
 * 最后结果：  
